@@ -326,11 +326,10 @@ body.dark-mode .navbar {
       color: #fff;
       text-align: center;
       padding: 15px 0;
-    }
+    }	
   </style>
 </head>
 <body>
-
   <!-- Navigation Bar -->
 <nav class="navbar">
   <div class="container">
@@ -338,14 +337,15 @@ body.dark-mode .navbar {
       <ul class="nav-menu">
           <li><a href="#home" class="nav-item">Home</a></li>
           <li><a href="#products" class="nav-item">Products</a></li>
-          <li><a href="educatinal.html" class="nav-item">Education</a></li>
+          <li><a href="educatinal.html" class="nav-item">Blog</a></li>
           <li><a href="#contact" class="nav-item">Contact</a></li>
-          <li><a href="create-account.html" class="nav-item">SignUp</a></li>
-          <li><a href="login.html" class="nav-item">Login</a></li>
+          <li  href="/Guvi23/Login" style="cursor:pointer" class="nav-item">SignUp</li>
+          <li  href="/Guvi23/Signup" style="cursor:pointer" class="nav-item">Login</li>
+
           <li><a href="setting.html" class="nav-item">Settings</a></li>
       </ul>
       <p>&nbsp; &nbsp; &nbsp; &nbsp;</p>
-      <button id="theme-toggle" class="theme-toggle">🌙</button>
+      <button id="theme-toggle" class="theme-toggle">ð</button>
       <p>&nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; </p>
       <div class="notification-bell" onclick="clearNotifications()">
         <img src="notification.png" alt="Notification Bell">
@@ -444,9 +444,10 @@ body.dark-mode .navbar {
     const themeToggleButton = document.getElementById('theme-toggle');
     themeToggleButton.addEventListener('click', () => {
       document.body.classList.toggle('dark-mode');
-      themeToggleButton.innerText = document.body.classList.contains('dark-mode') ? '🌞' : '🌙';
+      themeToggleButton.innerText = document.body.classList.contains('dark-mode') ? ;
     });
 
+        
     // Cart Functionality
     let cartCount = 0;
 
