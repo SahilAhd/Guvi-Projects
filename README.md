@@ -20,7 +20,16 @@ Follow these steps to get the project running locally:
    git clone https://github.com/SahilAhd/Guvi-Projects
 
 # Inside Java-Titan(Src->main -> webapp-> main->(all jsp and html filea are there)
-# Inside java-Titan(Webapp folder allserevelet mevan files are there)
+# Inside java-Titan(Webapp folder allserevelet mevan files are there). it is running on server go to webapp main folder there are two main inside index.html right click on it run on server.
 # Screenshots are there in Screenshots folder whih gives a beriefs) 
 # Inside SQL Connectors there is jdbc driver
 
+
+!! Tech-Stack
+
+# HTML,JSP
+# CSS
+# JAVASCRIPT
+# MYSQL
+# SERVELET
+# SERVER(TOMCAT)
