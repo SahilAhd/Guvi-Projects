@@ -19,4 +19,7 @@ Follow these steps to get the project running locally:
    ```bash
    git clone https://github.com/SahilAhd/Guvi-Projects
 
+# Inside Java-Titan(Src->main -> webapp-> main->(all jsp and html filea are there)
+# Inside java-Titan(Webapp folder allserevelet mevan files are there)
+# Screenshots are there in Screenshots folder whih gives a beriefs) 
 
