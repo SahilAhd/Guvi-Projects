@@ -22,4 +22,5 @@ Follow these steps to get the project running locally:
 # Inside Java-Titan(Src->main -> webapp-> main->(all jsp and html filea are there)
 # Inside java-Titan(Webapp folder allserevelet mevan files are there)
 # Screenshots are there in Screenshots folder whih gives a beriefs) 
+# Inside SQL Connectors there is jdbc driver
 
